@@ -1,6 +1,3 @@
 [submodule "projects/javascript-fields-sph4u"]
 	path = projects/javascript-fields-sph4u
 	url = https://gitlab.com/pseudobear/javascript-fields-sph4u.git
-[submodule "projects/EyeKey"]
-	path = projects/EyeKey
-	url = https://github.com/pseudobear/EyeKey.git
